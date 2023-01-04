@@ -41,7 +41,7 @@ function App() {
           <Navbar bg="dark" variant="dark" expand='lg'>
             <Container>
               <LinkContainer to="/">
-                <Navbar.Brand>Amazon.lite-Ecommerce project</Navbar.Brand>
+                <Navbar.Brand>Amazon.lite</Navbar.Brand>
               </LinkContainer>
               <Navbar.Toggle aria-controls="basic-navbar-nav" />
               <Navbar.Collapse id='basic-navbar-nav' >
